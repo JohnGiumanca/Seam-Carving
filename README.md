@@ -53,7 +53,7 @@ parametri.culoareDrum = [255 0 0]';
 ```Matlab
 parametri.metodaSelectareDrum = 'programareDinamica';
 ```
-The next lines ar for comparison of different methods of resizeing.
+The next lines are for visual comparison of different methods of resizeing.
 
 ## Presentation
 
